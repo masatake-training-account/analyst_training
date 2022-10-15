@@ -1,7 +1,7 @@
-import knock.knock02
+import knock.knock03
 
 # ガター内の緑色のボタンを押すとスクリプトを実行します。
 if __name__ == '__main__':
 	print('python実践データ分析')
 
-	knock.knock02.knock02()
+	knock.knock03.knock03()
